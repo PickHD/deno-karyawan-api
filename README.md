@@ -2,6 +2,8 @@
 Simple API with Deno (Oak) and MongoDB Database
 
 ## Setup
+Clone this repository with click green button "Clone"
+
 To run this project, install it locally using npm:
 ```
 $ cd ../deno-karyawan-api
